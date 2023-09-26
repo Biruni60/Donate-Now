@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { getDonationId } from "../Utilities/Donations";
-import { Cell, Label, Pie, PieChart, ResponsiveContainer } from "recharts";
+import { Cell, Pie, PieChart, ResponsiveContainer } from "recharts";
 
 
 const Statistics = () => {
@@ -36,9 +36,7 @@ const Statistics = () => {
        <Cell key={index} fill={pie.fill} ></Cell>
        
             })}
-          
-            
-        }
+
       </PieChart>
       </ResponsiveContainer>
       <div className="flex gap-10 justify-center">
