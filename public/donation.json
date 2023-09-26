@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "category": "Food",
+        "title": "Supporting Local Food Banks",
+        "category_bg": "#d8b4fe",
+        "card_bg": "#e9d5ff",
+        "text_button_bg": "#a855f7",
+        "description": "Help us provide nutritious meals to families in need. Your donation will go towards purchasing fresh produce and pantry staples to fill local food banks.",
+        "price": 25.00,
+        "picture": "https://i.ibb.co/RC0XdFS/Food.png"
+    },
+    {
+        "id": 2,
+        "category": "Health",
+        "title": "Medical Supplies for Clinics",
+        "category_bg": "#7dd3fc",
+        "card_bg": "#bae6fd",
+        "text_button_bg": "#0ea5e9",
+        "description": "Contribute to our effort in supplying essential medical equipment and supplies to healthcare clinics serving underserved communities. Your support can save lives.",
+        "price": 50.00,
+        "picture": "https://i.ibb.co/xMBWG7P/Health.png "
+    },
+    {
+        "id": 3,
+        "category": "Clothing",
+        "title": "Warm Clothes Drive",
+        "category_bg": "#86efac",
+        "card_bg": "#bbf7d0",
+        "text_button_bg": "#22c55e",
+        "description": "Donate gently-used warm clothing items like jackets, sweaters, and blankets. Your contributions will help keep those in need warm during the winter months.",
+        "price": 15.00,
+        "picture": "https://i.ibb.co/dmfN9RQ/Clothing.png"
+    },
+    {
+        "id": 4,
+        "category": "Education",
+        "title": "Scholarships for Underprivileged Students",
+        "category_bg": "#fda4af",
+        "card_bg": "#fecdd3",
+        "text_button_bg": "#f43f5e",
+        "description": "Support the dreams of talented but financially disadvantaged students by funding scholarships. Your donation can provide access to quality education and a brighter future.",
+        "price": 75.00,
+        "picture": "https://i.ibb.co/NrTT7BJ/Education.png"
+    },
+    {
+        "id": 5,
+        "category": "Food",
+        "title": "Meal Program for Homeless Shelters",
+        "category_bg": "#d8b4fe",
+        "card_bg": "#e9d5ff",
+        "text_button_bg": "#a855f7",
+        "description": "Join us in providing hot and nutritious meals to individuals experiencing homelessness. Your contribution can make a significant impact on their lives.",
+        "price": 30.00,
+        "picture": "https://i.ibb.co/RC0XdFS/Food.png"
+    },
+    {
+        "id": 6,
+        "category": "Health",
+        "title": "Emergency Medical Aid Fund",
+        "category_bg": "#7dd3fc",
+        "card_bg": "#bae6fd",
+        "text_button_bg": "#0ea5e9",
+        "description": "Help us respond quickly to medical emergencies by contributing to our emergency medical aid fund. Your support can save lives during critical situations.",
+        "price": 100.00,
+        "picture": "https://i.ibb.co/xMBWG7P/Health.png"
+    },
+    {
+        "id": 7,
+        "category": "Clothing",
+        "title": "Children's Winter Wardrobe",
+        "category_bg": "#86efac",
+        "card_bg": "#bbf7d0",
+        "text_button_bg": "#22c55e",
+        "description": "Give children in need the gift of warmth this winter. Your donation will help purchase winter clothing items for underprivileged kids.",
+        "price": 20.00,
+        "picture": "https://i.ibb.co/dmfN9RQ/Clothing.png"
+    },
+    {
+        "id": 8,
+        "category": "Education",
+        "title": "Books for Rural Schools",
+        "category_bg": "#fda4af",
+        "card_bg": "#fecdd3",
+        "text_button_bg": "#f43f5e",
+        "description": "Support education in remote areas by providing books and learning materials to rural schools. Your donation can ignite a passion for learning in young minds.",
+        "price": 40.00,
+        "picture": "https://i.ibb.co/NrTT7BJ/Education.png"
+    },
+    {
+        "id": 9,
+        "category": "Food",
+        "title": "Holiday Meals for Families",
+        "category_bg": "#d8b4fe",
+        "card_bg": "#e9d5ff",
+        "text_button_bg": "#a855f7",
+        "description": "Make the holiday season special for families in need by sponsoring festive meals. Your contribution can bring joy and warmth to their celebrations.",
+        "price": 35.00,
+        "picture": "https://i.ibb.co/RC0XdFS/Food.png"
+    },
+    {
+        "id": 10,
+        "category": "Health",
+        "title": "Medical Research Support",
+        "category_bg": "#7dd3fc",
+        "card_bg": "#bae6fd",
+        "text_button_bg": "#0ea5e9",
+        "description": "Advance medical research and innovation by contributing to our research support fund. Your donation can help find cures and improve healthcare.",
+        "price": 200.00,
+        "picture": "https://i.ibb.co/xMBWG7P/Health.png"
+    },
+    {
+        "id": 11,
+        "category": "Clothing",
+        "title": "School Uniforms for Kids",
+        "category_bg": "#86efac",
+        "card_bg": "#bbf7d0",
+        "text_button_bg": "#22c55e",
+        "description": "Equip underprivileged children with school uniforms to ensure they can attend school with pride. Your donation can empower their education journey.",
+        "price": 25.00,
+        "picture": "https://i.ibb.co/dmfN9RQ/Clothing.png"
+    },
+    {
+        "id": 12,
+        "category": "Education",
+        "title": "Computer Labs for Schools",
+        "category_bg": "#fda4af",
+        "card_bg": "#fecdd3",
+        "text_button_bg": "#f43f5e",
+        "description": "Support the digital literacy of students by funding computer labs in schools. Your donation can provide access to technology and modern education.",
+        "price": 150.00,
+        "picture": "https://i.ibb.co/NrTT7BJ/Education.png"
+    }
+]
