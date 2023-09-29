@@ -4,7 +4,7 @@ const Banner = ({handleSubmit}) => {
     return (
         <div >
         <div className="opacity-20">
-           <img src="/src/assets/Components/image/2210.q702.010.S.m005.c12.charity.jpg" alt="" />
+           <img src="https://i.ibb.co/P9LKSHx/2210-q702-010-S-m005-c12-charity.jpg" alt="" />
         </div>
         <div className="text-center absolute  -mt-52 md:-mt-60 md:ml-20 lg:-mt-96 lg:ml-80">
             <h2 className="text-4xl font-bold mb-10">I Grow By Helping People In Need</h2>

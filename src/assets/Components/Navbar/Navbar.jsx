@@ -22,7 +22,7 @@ const Navbar = () => {
         {links}
       </ul>
     </div>
-    <img src="/src/assets/Components/image/Logo.png" alt="" />
+    <img src="https://i.ibb.co/gvDgg6b/Logo.png" alt="" />
   </div>
   <div className="navbar hidden lg:flex">
     <ul className="flex gap-28">

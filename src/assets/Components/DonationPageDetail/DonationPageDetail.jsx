@@ -4,7 +4,7 @@ const DonationPageDetail = ({donation}) => {
     const{picture,category,title,price,category_bg,card_bg,text_button_bg}=donation;
     return (
         <div>
-           <div style={{backgroundColor:card_bg}} className="card card-side mx-2 shadow-xl">
+           <div style={{backgroundColor:card_bg}} className="card card-side mx-2 shadow-xl h-80">
   <figure className='w-1/2'><img className="w-full h-full" src={picture}/></figure>
   <div className="card-body w-1/2 justify-center gap-3">
     <h2 style={{backgroundColor:category_bg,color:text_button_bg}} className="p-2 w-24 text-center rounded">{category}</h2>
