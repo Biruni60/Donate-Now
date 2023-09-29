@@ -22,7 +22,7 @@ const Donation = () => {
             donations.slice(0,dataLength).map(donation=><DonationPageDetail key={donation.id} donation={donation}></DonationPageDetail>)
          }
         </div>
-        <div  className={(dataLength===donations.length || donations.length===0) && 'hidden'}>
+        <div  className={(dataLength===donations.length || donations.length<=0) && 'hidden'}>
             <div className="flex justify-center mt-8">
             <button className="btn btn-accent " onClick={()=>setDataLength(donations.length)}>Show All</button>
             </div>

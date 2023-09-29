@@ -1,6 +1,6 @@
 
 import {PropTypes} from 'prop-types'
-const DonationPageDetail = ({donation}) => {
+const  DonationPageDetail = ({donation}) => {
     const{picture,category,title,price,category_bg,card_bg,text_button_bg}=donation;
     return (
         <div>
